@@ -39,7 +39,7 @@
         <option value = "cc"> Joggers</option>
         <option value = "dd"> Slippers</option>
         <option value = "ee"> Hoodies</option></select></h3>
-    <h3 style="background-color: blue; text-align: center;">Click on photo to view real website</h3>
+    <h3 style="background-color: red; text-align: center;">Click on photo to view real website</h3>
     <button type = "button"  onclick="location.href = 'https://www.thesouledstore.com/'"> <img src="download (1).png"  alt="Website" height="500px" width="750px">  </button>
     <div id = "hover" onmouseover="hov()" onmouseleave="hove()" 
     style = "background-color: rgb(0, 4, 255);height: 50px; width: 100px;";> <p style="text-align: center; text-anchor: middle; color: rgb(9, 255, 0);"><a href="https://www.thesouledstore.com/men/t-shirts#" style="color: black;"> New collection!!</a></p></div> <br><br>
