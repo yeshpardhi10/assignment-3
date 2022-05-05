@@ -25,7 +25,7 @@
         }
 </script>
 </head>
-<body background="C:\Users\Datta Pardhi\Pictures\assignment\Colaba1.jpg" style="color: rgb(0, 0, 0); font-size: large; font-family: 'Times New Roman', Times, serif;" >
+<body background="Colaba1.jpg" style="color: rgb(0, 0, 0); font-size: large; font-family: 'Times New Roman', Times, serif;" >
     
     <h1 style="text-align: center;">Welcome to the souled store </h1> <br> <p style="color: rgb(0, 0, 0);">Enter your name: <input type = "text" id = "pname" onkeyup="myFunction()"></p>
     <p style="color: red;">Enter your Password: <input type = "password" id = "fname" onkeyup="myFunction()">
@@ -40,15 +40,15 @@
         <option value = "dd"> Slippers</option>
         <option value = "ee"> Hoodies</option></select></h3>
     <h3 style="background-color: blue; text-align: center;">Click on photo to view real website</h3>
-    <button type = "button"  onclick="location.href = 'https://www.thesouledstore.com/'"> <img src="C:\Users\Datta Pardhi\Downloads\download (1).png"  alt="Website" height="500px" width="750px">  </button>
+    <button type = "button"  onclick="location.href = 'https://www.thesouledstore.com/'"> <img src="download (1).png"  alt="Website" height="500px" width="750px">  </button>
     <div id = "hover" onmouseover="hov()" onmouseleave="hove()" 
     style = "background-color: rgb(0, 4, 255);height: 50px; width: 100px;";> <p style="text-align: center; text-anchor: middle; color: rgb(9, 255, 0);"><a href="https://www.thesouledstore.com/men/t-shirts#" style="color: black;"> New collection!!</a></p></div> <br><br>
     <hr>
     <h2>FOLLOW US ON</h2>
-    <button type = "button" onclick="location.href = 'https://www.instagram.com/accounts/login/?next=/thesouledstore/'"> <img src="C:\Users\Datta Pardhi\Pictures\assignment\94409a775c02d7658dd6e7ba88429b63.jpg" alt="Website" height="50px" width="50px">  </button>
-    <button type = "button" onclick="location.href = 'https://www.facebook.com/souledstore/'"> <img src="C:\Users\Datta Pardhi\Pictures\assignment\fb_icon_325x325.png" alt="Website" height="50px" width="50px">  </button>
+    <button type = "button" onclick="location.href = 'https://www.instagram.com/accounts/login/?next=/thesouledstore/'"> <img src="94409a775c02d7658dd6e7ba88429b63.jpg" alt="Website" height="50px" width="50px">  </button>
+    <button type = "button" onclick="location.href = 'https://www.facebook.com/souledstore/'"> <img src="fb_icon_325x325.png" alt="Website" height="50px" width="50px">  </button>
     <button type = "button" onclick="location.href = 'https://twitter.com/thesouledstore?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'"> <img src="C:\Users\Datta Pardhi\Pictures\assignment\download.png" height="50px" width="50px">  </button>
-    <button type = "button" onclick="location.href = 'https://in.pinterest.com/pin/442760207105347403/'"> <img src="C:\Users\Datta Pardhi\Pictures\assignment\Pinterest-logo.png"; alt="Website" height="50px" width="50px">  </button>
+    <button type = "button" onclick="location.href = 'https://in.pinterest.com/pin/442760207105347403/'"> <img src="Pinterest-logo.png"; alt="Website" height="50px" width="50px">  </button>
     
 </body>
 </html>
