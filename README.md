@@ -41,8 +41,7 @@
         <option value = "ee"> Hoodies</option></select></h3>
     <h3 style="background-color: red; text-align: center;">Click on photo to view real website</h3>
     <button type = "button"  onclick="location.href = 'https://www.thesouledstore.com/'"> <img src="download (1).png"  alt="Website" height="500px" width="750px">  </button>
-    <div id = "hover" onmouseover="hov()" onmouseleave="hove()"> 
-    style = "background-color: rgb(0, 4, 255);height: 50px; width: 100px;";> <p style="text-align: center; text-anchor: middle; color: rgb(9, 255, 0);"><a href="https://www.thesouledstore.com/men/t-shirts#" style="color: black;"> New collection!!</a></p></div> <br><br>
+    <div id = "hover" onmouseover="hov()" onmouseleave="hove()" style = "background-color: rgb(0, 4, 255);height: 50px; width: 100px;";> <p style="text-align: center; text-anchor: middle; color: rgb(9, 255, 0);"><a href="https://www.thesouledstore.com/men/t-shirts#" style="color: black;"> New collection!!</a></p></div> <br><br>
     <hr>
     <h2>FOLLOW US ON</h2>
     <button type = "button" onclick="location.href = 'https://www.instagram.com/accounts/login/?next=/thesouledstore/'"> <img src="94409a775c02d7658dd6e7ba88429b63.jpg" alt="Website" height="50px" width="50px">  </button>
