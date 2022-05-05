@@ -47,7 +47,7 @@
     <button type = "button" onclick="location.href = 'https://www.instagram.com/accounts/login/?next=/thesouledstore/'"> <img src="94409a775c02d7658dd6e7ba88429b63.jpg" alt="Website" height="50px" width="50px">  </button>
     <button type = "button" onclick="location.href = 'https://www.facebook.com/souledstore/'"> <img src="fb_icon_325x325.png" alt="Website" height="50px" width="50px">  </button>
     <button type = "button" onclick="location.href = 'https://twitter.com/thesouledstore?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'"> <img src="download.png" height="50px" width="50px">  </button>
-    <button type = "button" onclick="location.href = "https://in.pinterest.com/pin/442760207105347403/"> <img src="Pinterestlogo.png"; alt="Website" height="50px" width="50px">  </button>
+    
     
 </body>
 </html>
